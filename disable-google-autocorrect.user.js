@@ -3,6 +3,7 @@
 // @description    Redirects to "Did you mean" version of Google search.
 // @include        http://*.google.*/*
 // @homepage       https://github.com/WoLpH/userscript-disable-google-autocorrect
+// @version        1.0
 // ==/UserScript==
 
 if(
